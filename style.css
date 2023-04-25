@@ -1,0 +1,13 @@
+#countdown {
+    display: flex;
+    width: 20rem;
+    height: 10rem;
+    border: 5px solid yellowgreen;
+    color: red;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20rem;
+    margin-left: 40rem;
+    font-weight: bolder;
+    font-size: 10rem;
+}
